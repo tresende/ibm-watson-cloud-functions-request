@@ -1,0 +1,22 @@
+{
+  "name": "ibm-watson-cloud-functions-request",
+  "version": "1.0.0",
+  "description": "External request with IBM Watson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tresende/ibm-watson-cloud-functions-request.git"
+  },
+  "author": "Thiago Resende",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tresende/ibm-watson-cloud-functions-request/issues"
+  },
+  "homepage": "https://github.com/tresende/ibm-watson-cloud-functions-request#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
