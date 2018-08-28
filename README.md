@@ -1,4 +1,4 @@
-# ibm-watson-cloud-functions-request
+# Make external call from IBM Watson
 Generate IBM Cloud Object Storage Public Url.
 
 ## Follow Steps
